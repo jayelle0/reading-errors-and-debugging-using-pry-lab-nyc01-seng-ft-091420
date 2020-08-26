@@ -7,7 +7,6 @@ def snake_it_up(string)
      print "s" 
       end
       string
-  
   else
     string
   end
